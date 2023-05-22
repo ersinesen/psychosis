@@ -1,0 +1,13 @@
+I want to develop a spiking neural network model with brian2.
+
+The network will have spike oscillation continuously.
+
+The connectivity of the network should be set randomly using and adjacency matrix.
+
+External input will be applied initially for a short period of time, then it will be ceased.
+
+The network will continue firing after external stimuli is cut.
+
+The synapses will not be changed during the simulation.
+
+Implelement this simulation in python using brian2. 
